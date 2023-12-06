@@ -6,6 +6,7 @@
     }
     section#login {
         width: 70vw;
+       
     }
 
     section#login >div#imagem {
@@ -20,6 +21,7 @@
         height: 30%;
     }
     form > input[type=submit]{
+      margin: 10px;
         display: block;
         font-size: 1em;
         width: 50%;
